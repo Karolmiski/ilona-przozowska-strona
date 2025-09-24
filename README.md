@@ -1,2 +1,2 @@
-# ilona-przozowska-strona
-Strona poświęcona Ilonie brzozowskiej-Misiewicz
+# Ilona-Brzozowska-strona
+Strona poświęcona Ilonie Brzozowskiej-Misiewicz
